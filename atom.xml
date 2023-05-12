@@ -36,24 +36,4 @@
     
   </entry>
   
-  <entry>
-    <title></title>
-    <link href="https://github.com/WhityLL/WhityLL.github.io/2020/09/02/Test/"/>
-    <id>https://github.com/WhityLL/WhityLL.github.io/2020/09/02/Test/</id>
-    <published>2020-09-01T18:31:36.000Z</published>
-    <updated>2020-09-01T18:31:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Managing-Audio-with-SiriKit"><a href="#Managing-Audio-with-SiriKit" class="headerlink" title="Managing Audio with SiriKit"></a>Managing Audio with SiriKit</h1><p>Control audio playback and handle requests to add media using SiriKit Media Intents.</p><h2 id="Overview"><a href="#Overview" class="headerlink" title="Overview"></a>Overview</h2><ul><li>Note: This sample code project is associated with WWDC 2020 session <a href="https://developer.apple.com/videos/play/wwdc2020/10061/">Expand Your SiriKit Media Intents to More Platforms</a>.</li></ul><h2 id="Configure-the-Sample-Code-Project"><a href="#Configure-the-Sample-Code-Project" class="headerlink" title="Configure the Sample Code Project"></a>Configure the Sample Code Project</h2><p>Before you run the sample code project in Xcode:</p><ol><li><p>Create an App Group for <code>com.example.apple-samplecode.ControlAudio.Shared</code> in your developer portal.</p></li><li><p>Create an App ID for <code>com.example.apple-samplecode.ControlAudio</code> in your developer portal and enable it for App Groups, specifying the group you created in the previous step. Additionally, enable SiriKit.</p></li><li><p>Create a Music ID for <code>music.com.example.apple-samplecode.ControlAudio</code> in your developer portal.</p></li><li><p>Create a Key for the MusicKit service and create a developer token. For more information on this process, see <a href="https://developer.apple.com/documentation/applemusicapi/getting_keys_and_creating_tokens">Getting Keys and Creating Tokens</a>. </p></li><li><p>Copy the developer token to the <code>developerToken</code> variable in the <code>AppleMusicAPIController.swift</code> file.</p></li><li><p>Create a provisioning profile for <code>com.example.apple-samplecode.ControlAudio</code> and <code>com.example.apple-samplecode.ControlAudio.ControlAudioExtension</code> in your developer portal.</p></li><li><p>Associate the provisioning profiles with the project in Xcode signing settings.</p></li></ol>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;Managing-Audio-with-SiriKit&quot;&gt;&lt;a href=&quot;#Managing-Audio-with-SiriKit&quot; class=&quot;headerlink&quot; title=&quot;Managing Audio with SiriKit&quot;&gt;&lt;/a&gt;Manag</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
 </feed>
