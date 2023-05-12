@@ -3,11 +3,11 @@
   <title>WhityLL</title>
   
   
-  <link href="https://github.com/WhityLL/WhityLL.github.io/atom.xml" rel="self"/>
+  <link href="https://whityll.github.io/project/atom.xml" rel="self"/>
   
-  <link href="https://github.com/WhityLL/WhityLL.github.io/"/>
+  <link href="https://whityll.github.io/project/"/>
   <updated>2023-05-12T13:15:03.736Z</updated>
-  <id>https://github.com/WhityLL/WhityLL.github.io/</id>
+  <id>https://whityll.github.io/project/</id>
   
   <author>
     <name>Whity</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/WhityLL/WhityLL.github.io/2023/05/12/hello-world/"/>
-    <id>https://github.com/WhityLL/WhityLL.github.io/2023/05/12/hello-world/</id>
+    <link href="https://whityll.github.io/project/2023/05/12/hello-world/"/>
+    <id>https://whityll.github.io/project/2023/05/12/hello-world/</id>
     <published>2023-05-12T13:15:03.736Z</published>
     <updated>2023-05-12T13:15:03.736Z</updated>
     
