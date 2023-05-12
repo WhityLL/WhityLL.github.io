@@ -1,6 +1,6 @@
-https://whityll.github.io/project/tags/index.html
-https://whityll.github.io/project/contact/index.html
-https://whityll.github.io/project/about/index.html
-https://whityll.github.io/project/categories/index.html
-https://whityll.github.io/project/2023/05/12/hello-world/
-https://whityll.github.io/project
+https://whityll.github.io/tags/index.html
+https://whityll.github.io/contact/index.html
+https://whityll.github.io/about/index.html
+https://whityll.github.io/categories/index.html
+https://whityll.github.io/2023/05/12/hello-world/
+https://whityll.github.io/
