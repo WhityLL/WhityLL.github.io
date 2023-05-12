@@ -1,2 +1,6 @@
+https://github.com/WhityLL/WhityLL.github.io/tags/index.html
+https://github.com/WhityLL/WhityLL.github.io/contact/index.html
+https://github.com/WhityLL/WhityLL.github.io/about/index.html
+https://github.com/WhityLL/WhityLL.github.io/categories/index.html
 https://github.com/WhityLL/WhityLL.github.io/2023/05/12/hello-world/
 https://github.com/WhityLL/WhityLL.github.io
